@@ -1,6 +1,6 @@
 # HacktoberFest2020
 
-Hello, ini **Hacktoberfest** (https://hacktoberfest.digitalocean.com/) pertama kami,
+Hello, ini [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) pertama kami,
 silakan berkontribusi !!!
 
 ## Tutorial 
